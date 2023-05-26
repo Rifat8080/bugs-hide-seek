@@ -11,27 +11,27 @@ function closeModal(modalId) {
 }
 
 // Add event listeners to the buttons that open the modals
-document.getElementById('popbtn1').addEventListener('click', () => {
+document.getElementById('popbtn').addEventListener('click', () => {
   openModal('myModal1');
 });
 
-document.getElementById('popbtn2').addEventListener('click', () => {
+document.getElementById('popbtn').addEventListener('click', () => {
   openModal('myModal2');
 });
 
-document.getElementById('popbtn3').addEventListener('click', () => {
+document.getElementById('popbtn').addEventListener('click', () => {
   openModal('myModal3');
 });
 
-document.getElementById('popbtn4').addEventListener('click', () => {
+document.getElementById('popbtn').addEventListener('click', () => {
   openModal('myModal4');
 });
 
-document.getElementById('popbtn5').addEventListener('click', () => {
+document.getElementById('popbtn').addEventListener('click', () => {
   openModal('myModal5');
 });
 
-document.getElementById('popbtn6').addEventListener('click', () => {
+document.getElementById('popbtn').addEventListener('click', () => {
   openModal('myModal6');
 });
 
